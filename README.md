@@ -36,6 +36,12 @@ ___
 This project aligned with our chosen SDG Gender Equality. Which focuses on achieving equal rights, eliminating discrimination, and also promoting inclusivity for all genders. However, gender bias quality continues to exist in various environments, and one of the major challenges is the lack of a structured platform for reporting and monitoring gender problems or concerns, which makes it difficult for institutions to address these issues properly. The admins through the system will provide a solution where users can report the  issues and evaluate while the admin can monitor and also improve the policies to ensure a more inclusive and equitable environment for all  genders. 
 
 Repository: https://github.com/yorimendoza/Gender-Equality-Reporting-and-Inclusion-Monitoring-System---SDG-5
+
+### Blue Economy Portal
+
+This website aims to establish a centralized and accessible platform for promoting sustainable blue economy businesses, networking stakeholders, disseminating information on best practices, and ultimately supporting the Philippines' vision of a thriving and sustainable ocean-based economy. This framework aims to address critical issues such as overfishing, coastal pollution, and the impacts of climate change (Philippine News Agency, 2025). These efforts align with the Philippine Development Plan (2023–2028) and current policy discussions focused on building a resilient and inclusive blue economy.
+
+Repository: 
 ___
 
 ## Contact Me
