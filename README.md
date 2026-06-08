@@ -27,11 +27,11 @@ ___
 
 ## Projects
 
-__
+___
 
 ## Contact Me
 Email: mendozayori123@gmail.com
 
 Phone: 09484314372
 
-GitHub: 
+GitHub: https://github.com/yorimendoza
