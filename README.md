@@ -2,14 +2,18 @@
 
 Second Year BSIT Student | Davao Del Norte State College
 
-Front/Back-End Developer | Focusing mainly on Front-End Management
+Front/Back-End Developer | Focused on Database and Front-End Management
 
 Portfolio: 
 ___
 
 ## About Me
 
-I am 
+I am a 2nd-Year Bachelor of Science Information Technology currently studying at Davao Del Norte State College, solely focusing on learning integrations and interactive designs.
+
+I specialize in developing basic and intermediate interactive designs, also learning in database management, and as well as having basic knowledge in backend development.
+
+I am still currently learning about the basics of coding, its fundamentals, and characteristics as an improvement throughout the years.
 ___
 
 ## Skills
