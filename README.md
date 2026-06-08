@@ -41,7 +41,7 @@ Repository: https://github.com/yorimendoza/Gender-Equality-Reporting-and-Inclusi
 
 This website aims to establish a centralized and accessible platform for promoting sustainable blue economy businesses, networking stakeholders, disseminating information on best practices, and ultimately supporting the Philippines' vision of a thriving and sustainable ocean-based economy. This framework aims to address critical issues such as overfishing, coastal pollution, and the impacts of climate change (Philippine News Agency, 2025). These efforts align with the Philippine Development Plan (2023–2028) and current policy discussions focused on building a resilient and inclusive blue economy.
 
-Repository: 
+Repository: https://github.com/yorimendoza/Blue-Economy-Portal.git
 ___
 
 ## Contact Me
