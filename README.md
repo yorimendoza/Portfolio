@@ -13,7 +13,7 @@ I am a 2nd-Year Bachelor of Science Information Technology currently studying at
 
 I specialize in developing basic and intermediate interactive designs, also learning in database management, and as well as having basic knowledge in backend development.
 
-I am still currently learning about the basics of coding, its fundamentals, and characteristics as an improvement throughout the years.
+I am still currently learning about the basics of coding, its fundamentals, and characteristics as an improvement to be brought throughout the years.
 ___
 
 ## Skills
