@@ -4,7 +4,7 @@ Second Year BSIT Student | Davao Del Norte State College
 
 Front/Back-End Developer | Focused on Database and Front-End Management
 
-Portfolio: 
+Portfolio: https://github.com/yorimendoza/yorimendoza.github.io
 ___
 
 ## About Me
